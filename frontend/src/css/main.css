@@ -1,0 +1,24 @@
+#Cardcontainer {}
+
+nav {
+    /*  position: fixed!important;
+    left: 0;
+    right: 0;
+    top: 0; */
+}
+
+.card {
+    margin-top: 20px;
+}
+
+#post {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+
+#SearchMain {
+    display: block;
+    width: 98vw;
+    height: auto;
+}

@@ -1,0 +1,23 @@
+#PostMain .form-floating {
+    margin: 10px;
+}
+
+#PostBtn {
+
+    float: right;
+}
+
+#PostBtn,
+#ZurueckBtn {
+    margin: 10px;
+}
+
+textarea {
+    height: 300px !important
+}
+
+#PostMain {
+    display: block;
+    width: 98vw;
+    height: auto;
+}
